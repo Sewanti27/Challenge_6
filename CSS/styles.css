@@ -1,0 +1,78 @@
+body{
+  font-family: 'Karla', sans-serif;
+}
+.btn-xl {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:70%;
+}
+h2{
+  font-weight:700;
+}
+.Heading-1{
+  color:hsl(179, 62%, 43%);
+  font-weight: 700;
+}
+.paragraph-1{
+  color:hsl(71, 73%, 54%);
+}
+
+.para-2{
+  color:hsl(218, 22%, 67%);
+  line-height: 1;
+  padding-left:5%;
+}
+.grid1-2{
+  background-color: hsl(179, 62%, 43%);
+  width:450px;
+}
+
+.grid1-3{
+  background-color:hsl(179, 62%, 47%);
+  width:450px;
+}
+
+.white-fonts{
+  color:white;
+}
+
+.paddingpurp{
+  padding-left: 5%;
+  padding-top:1%;
+}
+
+.paddingpurp1{
+  margin-left:9.5%;
+}
+
+.marg{
+  padding-top:1%;
+}
+
+.margin1{
+  margin-top:1%;
+}
+.pad-1{
+  padding-top:5%;
+}
+.pad-2{
+  padding-top:9%;
+}
+.row-1{
+  margin-left:15%;
+  font-size:22px;
+}
+
+.row-2{
+  margin-left:15%;
+}
+
+.inpad{
+  padding-left:5%;
+  line-height:1;
+}
+
+.prob-1{
+  margin-left:11%;
+}
